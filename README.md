@@ -1,6 +1,4 @@
-# ATM_Simulator
-It is CLI based Application that simulate the working of ATM , with using of OPPS concept , it is build by using java cor
-# ATM Simulator – Core Java Project
+# ATM Simulator – Java Project
 
 A command-line ATM Simulator developed using Core Java to demonstrate ATM banking operations, object-oriented programming, exception handling, collections, and transaction management.
 
